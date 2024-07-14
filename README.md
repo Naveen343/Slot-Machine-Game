@@ -1,7 +1,7 @@
 # Slot-Machine-Game
 Slot Machine Game built with Python  
 
-Sample Output
+Sample Output  
 Put your bet amount hommie : 100
 100 bucks
 current balance is $100
