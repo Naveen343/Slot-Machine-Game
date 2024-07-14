@@ -1,5 +1,6 @@
 # Slot-Machine-Game
-Slot Machine Game built with Python
+Slot Machine Game built with Python  
+
 Sample Output
 Put your bet amount hommie : 100
 100 bucks
