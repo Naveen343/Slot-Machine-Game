@@ -1,217 +1,217 @@
 # Slot-Machine-Game
 Slot Machine Game built with Python<br/>
-Sample Output  
-Put your bet amount hommie : 100
-100 bucks
-current balance is $100
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 2
-How much would you put on each line ?5 
-You are betting 5 on 2 lines. Total bet will be : $10
-GRAPES | GRAPES | ORANGE
-MANGOS | GRAPES | MANGOS
-GRAPES | MANGOS | GRAPES
-You won $0.
-You won on lines:
-current balance is $90
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 2
-How much would you put on each line ?2
-You are betting 2 on 2 lines. Total bet will be : $4
-GRAPES | GRAPES | ORANGE
-MANGOS | GRAPES | MANGOS
-GRAPES | APPLES | APPLES
-You won $0.
-You won on lines:
-current balance is $86
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 2
-How much would you put on each line ?2
-You are betting 2 on 2 lines. Total bet will be : $4
-ORANGE | MANGOS | MANGOS
-MANGOS | GRAPES | ORANGE
-GRAPES | GRAPES | GRAPES
-You won $0.
-You won on lines:
-current balance is $82
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 2
-How much would you put on each line ?2
-You are betting 2 on 2 lines. Total bet will be : $4
-ORANGE | APPLES | APPLES
-MANGOS | GRAPES | MANGOS
-ORANGE | GRAPES | MANGOS
-You won $0.
-You won on lines:
-current balance is $78
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 2
-How much would you put on each line ?2
-You are betting 2 on 2 lines. Total bet will be : $4
-MANGOS | GRAPES | MANGOS
-GRAPES | MANGOS | GRAPES
-ORANGE | APPLES | GRAPES
-You won $0.
-You won on lines:
-current balance is $74
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 2
-How much would you put on each line ?2
-You are betting 2 on 2 lines. Total bet will be : $4
-MANGOS | GRAPES | APPLES
-ORANGE | APPLES | MANGOS
-MANGOS | GRAPES | GRAPES
-You won $0.
-You won on lines:
-current balance is $70
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 2
-How much would you put on each line ?2
-You are betting 2 on 2 lines. Total bet will be : $4
-MANGOS | GRAPES | APPLES
-GRAPES | APPLES | GRAPES
-APPLES | MANGOS | MANGOS
-You won $0.
-You won on lines:
-current balance is $66
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 2
-How much would you put on each line ?2
-You are betting 2 on 2 lines. Total bet will be : $4
-MANGOS | ORANGE | GRAPES
-ORANGE | GRAPES | APPLES
-GRAPES | MANGOS | GRAPES
-You won $0.
-You won on lines:
-current balance is $62
-Press enter to play (q to quit). 1
-Now choose the number of lines to bet between (1-3)? 1
-How much would you put on each line ?2
-You are betting 2 on 1 lines. Total bet will be : $2
-GRAPES | ORANGE | MANGOS
-GRAPES | GRAPES | GRAPES
-ORANGE | GRAPES | GRAPES
-You won $0.
-You won on lines:
-current balance is $60
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 2
-How much would you put on each line ?1
-You are betting 1 on 2 lines. Total bet will be : $2
-ORANGE | APPLES | ORANGE
-APPLES | GRAPES | APPLES
-GRAPES | ORANGE | MANGOS
-You won $0.
-You won on lines:
-current balance is $58
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 2
-How much would you put on each line ?2
-You are betting 2 on 2 lines. Total bet will be : $4
-GRAPES | APPLES | ORANGE
-MANGOS | MANGOS | MANGOS
-ORANGE | MANGOS | MANGOS
-You won $4.
-You won on lines: 2
-current balance is $58
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 3
-How much would you put on each line ?1
-You are betting 1 on 3 lines. Total bet will be : $3
-GRAPES | ORANGE | MANGOS
-MANGOS | MANGOS | ORANGE
-MANGOS | GRAPES | MANGOS
-You won $0.
-You won on lines:
-current balance is $55
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 3
-How much would you put on each line ?1
-You are betting 1 on 3 lines. Total bet will be : $3
-ORANGE | MANGOS | GRAPES
-ORANGE | GRAPES | MANGOS
-GRAPES | MANGOS | APPLES
-You won $0.
-You won on lines:
-current balance is $52
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 3
-How much would you put on each line ?1
-You are betting 1 on 3 lines. Total bet will be : $3
-ORANGE | MANGOS | MANGOS
-APPLES | ORANGE | GRAPES
-ORANGE | GRAPES | GRAPES
-You won $0.
-You won on lines:
-current balance is $49
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 3
-How much would you put on each line ?1
-You are betting 1 on 3 lines. Total bet will be : $3
-GRAPES | APPLES | ORANGE
-MANGOS | MANGOS | GRAPES
-MANGOS | MANGOS | ORANGE
-You won $0.
-You won on lines:
-current balance is $46
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 3
-How much would you put on each line ?1
-You are betting 1 on 3 lines. Total bet will be : $3
-GRAPES | ORANGE | APPLES
-MANGOS | GRAPES | MANGOS
-APPLES | GRAPES | GRAPES
-You won $0.
-You won on lines:
-current balance is $43
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 3
-How much would you put on each line ?1
-You are betting 1 on 3 lines. Total bet will be : $3
-APPLES | MANGOS | MANGOS
-MANGOS | ORANGE | APPLES
-MANGOS | MANGOS | ORANGE
-You won $0.
-You won on lines:
-current balance is $40
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 3
-How much would you put on each line ?1
-You are betting 1 on 3 lines. Total bet will be : $3
-APPLES | ORANGE | ORANGE
-MANGOS | APPLES | APPLES
-GRAPES | ORANGE | GRAPES
-You won $0.
-You won on lines:
-current balance is $37
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 3
-How much would you put on each line ?1
-You are betting 1 on 3 lines. Total bet will be : $3
-MANGOS | GRAPES | ORANGE
-APPLES | MANGOS | GRAPES
-ORANGE | GRAPES | GRAPES
-You won $0.
-You won on lines:
-current balance is $34
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 3
-How much would you put on each line ?1
-You are betting 1 on 3 lines. Total bet will be : $3
-MANGOS | APPLES | GRAPES
-GRAPES | GRAPES | ORANGE
-MANGOS | ORANGE | GRAPES
-You won $0.
-You won on lines:
-current balance is $31
-Press enter to play (q to quit). 
-Now choose the number of lines to bet between (1-3)? 3
-How much would you put on each line ?1
-You are betting 1 on 3 lines. Total bet will be : $3
-GRAPES | GRAPES | GRAPES
-ORANGE | APPLES | MANGOS
-ORANGE | ORANGE | GRAPES
-You won $1.
-You won on lines: 1
-current balance is $29
-Press enter to play (q to quit). q
+Sample Output:<br/>
+Put your bet amount hommie : 100<br/>
+100 bucks<br/>
+current balance is $100<br/>
+Press enter to play (q to quit). <br/>
+Now choose the number of lines to bet between (1-3)? 2<br/>
+How much would you put on each line ?5 <br/>
+You are betting 5 on 2 lines. Total bet will be : $10<br/>
+GRAPES | GRAPES | ORANGE<br/>
+MANGOS | GRAPES | MANGOS<br/>
+GRAPES | MANGOS | GRAPES<br/>
+You won $0.<br/>
+You won on lines:<br/>
+current balance is $90<br/>
+Press enter to play (q to quit). <br/>
+Now choose the number of lines to bet between (1-3)? 2<br/>
+How much would you put on each line ?2<br/>
+You are betting 2 on 2 lines. Total bet will be : $4<br/>
+GRAPES | GRAPES | ORANGE<br/>
+MANGOS | GRAPES | MANGOS<br/>
+GRAPES | APPLES | APPLES<br/>
+You won $0.<br/>
+You won on lines:<br/>
+current balance is $86<br/>
+Press enter to play (q to quit).<br/> 
+Now choose the number of lines to bet between (1-3)? 2<br/>
+How much would you put on each line ?2<br/>
+You are betting 2 on 2 lines. Total bet will be : $4<br/>
+ORANGE | MANGOS | MANGOS<br/>
+MANGOS | GRAPES | ORANGE<br/>
+GRAPES | GRAPES | GRAPES<br/>
+You won $0.<br/>
+You won on lines:<br/>
+current balance is $82<br/>
+Press enter to play (q to quit). <br/>
+Now choose the number of lines to bet between (1-3)? 2<br/>
+How much would you put on each line ?2<br/>
+You are betting 2 on 2 lines. Total bet will be : $4<br/>
+ORANGE | APPLES | APPLES<br/>
+MANGOS | GRAPES | MANGOS<br/>
+ORANGE | GRAPES | MANGOS<br/>
+You won $0.<br/>
+You won on lines:<br/>
+current balance is $78<br/>
+Press enter to play (q to quit). <br/>
+Now choose the number of lines to bet between (1-3)? 2<br/>
+How much would you put on each line ?2<br/>
+You are betting 2 on 2 lines. Total bet will be : $4<br/>
+MANGOS | GRAPES | MANGOS<br/>
+GRAPES | MANGOS | GRAPES<br/>
+ORANGE | APPLES | GRAPES<br/>
+You won $0.<br/>
+You won on lines:<br/>
+current balance is $74<br/>
+Press enter to play (q to quit). <br/>
+Now choose the number of lines to bet between (1-3)? 2<br/>
+How much would you put on each line ?2<br/>
+You are betting 2 on 2 lines. Total bet will be : $4<br/>
+MANGOS | GRAPES | APPLES<br/>
+ORANGE | APPLES | MANGOS<br/>
+MANGOS | GRAPES | GRAPES<br/>
+You won $0.<br/>
+You won on lines:<br/>
+current balance is $70<br/>
+Press enter to play (q to quit). <br/>
+Now choose the number of lines to bet between (1-3)? 2<br/>
+How much would you put on each line ?2<br/>
+You are betting 2 on 2 lines. Total bet will be : $4<br/>
+MANGOS | GRAPES | APPLES<br/>
+GRAPES | APPLES | GRAPES<br/>
+APPLES | MANGOS | MANGOS<br/>
+You won $0.<br/>
+You won on lines:<br/>
+current balance is $66<br/>
+Press enter to play (q to quit). <br/>
+Now choose the number of lines to bet between (1-3)? 2<br/>
+How much would you put on each line ?2<br/>
+You are betting 2 on 2 lines. Total bet will be : $4<br/>
+MANGOS | ORANGE | GRAPES<br/>
+ORANGE | GRAPES | APPLES<br/>
+GRAPES | MANGOS | GRAPES<br/>
+You won $0.<br/>
+You won on lines:<br/>
+current balance is $62<br/>
+Press enter to play (q to quit). 1<br/>
+Now choose the number of lines to bet between (1-3)? 1<br/>
+How much would you put on each line ?2<br/>
+You are betting 2 on 1 lines. Total bet will be : $2<br/>
+GRAPES | ORANGE | MANGOS<br/>
+GRAPES | GRAPES | GRAPES<br/>
+ORANGE | GRAPES | GRAPES<br/>
+You won $0.<br/>
+You won on lines:<br/>
+current balance is $60<br/>
+Press enter to play (q to quit). <br/>
+Now choose the number of lines to bet between (1-3)? 2<br/>
+How much would you put on each line ?1<br/>
+You are betting 1 on 2 lines. Total bet will be : $2<br/>
+ORANGE | APPLES | ORANGE<br/>
+APPLES | GRAPES | APPLES<br/>
+GRAPES | ORANGE | MANGOS<br/>
+You won $0.<br/>
+You won on lines:<br/>
+current balance is $58<br/>
+Press enter to play (q to quit). <br/>
+Now choose the number of lines to bet between (1-3)? 2<br/>
+How much would you put on each line ?2<br/>
+You are betting 2 on 2 lines. Total bet will be : $4<br/>
+GRAPES | APPLES | ORANGE<br/>
+MANGOS | MANGOS | MANGOS<br/>
+ORANGE | MANGOS | MANGOS<br/>
+You won $4.<br/>
+You won on lines: 2<br/>
+current balance is $58<br/>
+Press enter to play (q to quit). <br/>
+Now choose the number of lines to bet between (1-3)? 3<br/>
+How much would you put on each line ?1<br/>
+You are betting 1 on 3 lines. Total bet will be : $3<br/>
+GRAPES | ORANGE | MANGOS<br/>
+MANGOS | MANGOS | ORANGE<br/>
+MANGOS | GRAPES | MANGOS<br/>
+You won $0.<br/>
+You won on lines:<br/>
+current balance is $55<br/>
+Press enter to play (q to quit).<br/> 
+Now choose the number of lines to bet between (1-3)? 3<br/>
+How much would you put on each line ?1<br/>
+You are betting 1 on 3 lines. Total bet will be : $3<br/>
+ORANGE | MANGOS | GRAPES<br/>
+ORANGE | GRAPES | MANGOS<br/>
+GRAPES | MANGOS | APPLES<br/>
+You won $0.<br/>
+You won on lines:<br/>
+current balance is $52<br/>
+Press enter to play (q to quit). <br/>
+Now choose the number of lines to bet between (1-3)? 3<br/>
+How much would you put on each line ?1<br/>
+You are betting 1 on 3 lines. Total bet will be : $3<br/>
+ORANGE | MANGOS | MANGOS<br/>
+APPLES | ORANGE | GRAPES<br/>
+ORANGE | GRAPES | GRAPES<br/>
+You won $0.<br/>
+You won on lines:<br/>
+current balance is $49<br/>
+Press enter to play (q to quit). <br/>
+Now choose the number of lines to bet between (1-3)? 3<br/>
+How much would you put on each line ?1<br/>
+You are betting 1 on 3 lines. Total bet will be : $3<br/>
+GRAPES | APPLES | ORANGE<br/>
+MANGOS | MANGOS | GRAPES<br/>
+MANGOS | MANGOS | ORANGE<br/>
+You won $0.<br/>
+You won on lines:<br/>
+current balance is $46<br/>
+Press enter to play (q to quit). <br/>
+Now choose the number of lines to bet between (1-3)? 3<br/>
+How much would you put on each line ?1<br/>
+You are betting 1 on 3 lines. Total bet will be : $3<br/>
+GRAPES | ORANGE | APPLES<br/>
+MANGOS | GRAPES | MANGOS<br/>
+APPLES | GRAPES | GRAPES<br/>
+You won $0.<br/>
+You won on lines:<br/>
+current balance is $43<br/>
+Press enter to play (q to quit). <br/>
+Now choose the number of lines to bet between (1-3)? 3<br/>
+How much would you put on each line ?1<br/>
+You are betting 1 on 3 lines. Total bet will be : $3<br/>
+APPLES | MANGOS | MANGOS<br/>
+MANGOS | ORANGE | APPLES<br/>
+MANGOS | MANGOS | ORANGE<br/>
+You won $0.<br/>
+You won on lines:<br/>
+current balance is $40<br/>
+Press enter to play (q to quit). <br/>
+Now choose the number of lines to bet between (1-3)? 3<br/>
+How much would you put on each line ?1<br/>
+You are betting 1 on 3 lines. Total bet will be : $3<br/>
+APPLES | ORANGE | ORANGE<br/>
+MANGOS | APPLES | APPLES<br/>
+GRAPES | ORANGE | GRAPES<br/>
+You won $0.<br/>
+You won on lines:<br/>
+current balance is $37<br/>
+Press enter to play (q to quit). <br/>
+Now choose the number of lines to bet between (1-3)? 3<br/>
+How much would you put on each line ?1<br/>
+You are betting 1 on 3 lines. Total bet will be : $3<br/>
+MANGOS | GRAPES | ORANGE<br/>
+APPLES | MANGOS | GRAPES<br/>
+ORANGE | GRAPES | GRAPES<br/>
+You won $0.<br/>
+You won on lines:<br/>
+current balance is $34<br/>
+Press enter to play (q to quit). <br/>
+Now choose the number of lines to bet between (1-3)? 3<br/>
+How much would you put on each line ?1<br/>
+You are betting 1 on 3 lines. Total bet will be : $3<br/>
+MANGOS | APPLES | GRAPES<br/>
+GRAPES | GRAPES | ORANGE<br/>
+MANGOS | ORANGE | GRAPES<br/>
+You won $0.<br/>
+You won on lines:<br/>
+current balance is $31<br/>
+Press enter to play (q to quit). <br/>
+Now choose the number of lines to bet between (1-3)? 3<br/>
+How much would you put on each line ?1<br/>
+You are betting 1 on 3 lines. Total bet will be : $3<br/>
+GRAPES | GRAPES | GRAPES<br/>
+ORANGE | APPLES | MANGOS<br/>
+ORANGE | ORANGE | GRAPES<br/>
+You won $1.<br/>
+You won on lines: 1<br/>
+current balance is $29<br/>
+Press enter to play (q to quit). q<br/>
